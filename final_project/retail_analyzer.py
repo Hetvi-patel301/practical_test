@@ -20,7 +20,7 @@ class RetailAnalyzer:
                     raise ValueError("Missing column: " + column)
             self.df =data
             print("Data loaded successfully!")
-            print("print top 5 line of dataset")
+            print(" Top 5 rows of dataset")
             print(self.df.head(5))
         except FileNotFoundError:
             print("Error : File not found. check the file path")
