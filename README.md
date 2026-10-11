@@ -98,10 +98,10 @@ The program recalculates Total Sales using the formula:
 
 ```text
 practical_test/
-│
-├── retail_analyzer.py
-├── retail_sales.csv
-└── README.md
+├── final_project/
+      ├── retail_analyzer.py
+      ├── retail_sales.csv
+├── README.md
 ```
 
 **Created by:** Hetvi Patel
